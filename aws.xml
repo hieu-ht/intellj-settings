@@ -4,5 +4,6 @@
   </component>
   <component name="codewhispererAutotriggerStates">
     <option name="classifierGroup" value="false" />
+    <option name="expThreshold" value="false" />
   </component>
 </application>
