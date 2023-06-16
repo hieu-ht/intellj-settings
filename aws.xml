@@ -6,4 +6,12 @@
     <option name="classifierGroup" value="false" />
     <option name="expThreshold" value="false" />
   </component>
+  <component name="codewhispererUserGroupSettings">
+    <option name="settings">
+      <map>
+        <entry key="userGroup" value="Control" />
+      </map>
+    </option>
+    <option name="version" value="1.69-231" />
+  </component>
 </application>
