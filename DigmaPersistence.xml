@@ -1,5 +1,11 @@
 <application>
   <component name="org.digma.intellij.plugin.persistence.PersistenceService">
+    <option name="alreadyPassedTheInstallationWizardForIdeaIDE" value="true" />
+    <option name="currentEnv" value="MACBOOK-PRO14.LOCAL[LOCAL]" />
+    <option name="firstTimeAssetsReceived" value="true" />
+    <option name="firstTimeConnectionEstablished" value="true" />
+    <option name="firstTimeInsightReceived" value="true" />
     <option name="firstTimePluginLoaded" value="true" />
+    <option name="userEmail" value="hoangtrunghieu10licbn@gmail.com" />
   </component>
 </application>
