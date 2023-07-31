@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
