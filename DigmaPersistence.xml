@@ -5,9 +5,11 @@
     <option name="firstTimeAssetsReceived" value="true" />
     <option name="firstTimeConnectionEstablished" value="true" />
     <option name="firstTimeInsightReceived" value="true" />
+    <option name="firstTimePerformanceMetrics" value="true" />
     <option name="firstTimePluginLoaded" value="true" />
     <option name="firstTimeRecentActivityReceived" value="true" />
     <option name="localEngineInstalled" value="false" />
+    <option name="notificationsStartDate" value="2023-09-18T09:17:51.245491Z" />
     <option name="userEmail" value="hoangtrunghieu10licbn@gmail.com" />
     <option name="userId" value="b4967ff8" />
   </component>
